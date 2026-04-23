@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bd919742661516a4e9f3e979594d28e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialoguePanel: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - yesButton: {instanceID: 0}
+  - noButton: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - GourmetChickenRaceIntro: {fileID: 8300000, guid: 4789df250d64ca34da180e22998558df, type: 3}
+  - Applause1: {fileID: 8300000, guid: 4f6dea2766e4c244e932e1efadae2565, type: 3}
+  - GochiShoutTogether: {fileID: 8300000, guid: 6b2f74485a42a4d43a3f003103a7c364, type: 3}
+  - ConfirmSound: {fileID: 8300000, guid: aace2fec83d4a5c4e8588a19c4797cd5, type: 3}
+  - GOCHI_Intro_Music: {fileID: 8300000, guid: 469b4ab9d50fadc479b2f90d6bf28ce8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
