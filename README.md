@@ -9,17 +9,25 @@ random target price.
 
 ## Demo
 
-[Add a 30–60 second gameplay video link here]
+
+
+https://github.com/user-attachments/assets/6d0a2a00-8886-4f4b-b538-c542236d3fd7
+
+
 
 ## Screenshots
 
-![Title Screen](screenshots/title-screen.png)
+[Title Screen]<img width="971" height="347" alt="title-screen" src="https://github.com/user-attachments/assets/ab8ecca8-9957-44c3-b459-677e4c61671f" />
 
-![Menu](screenshots/menu.png)
 
-![Gameplay](screenshots/gameplay.png)
+[Menu]<img width="1858" height="973" alt="Screenshot 2026-09-18 192607" src="https://github.com/user-attachments/assets/1a6d1c48-8aa9-4798-b634-593254121482" />
 
-![Results](screenshots/results.png)
+[Gameplay]<img width="843" height="448" alt="Screenshot 2026-09-18 192715" src="https://github.com/user-attachments/assets/5eac76a7-9b9f-456d-8a19-89cf2e1912ff" />
+
+
+[Results]<img width="828" height="441" alt="Screenshot 2026-09-18 192804" src="https://github.com/user-attachments/assets/2750fb28-0ddd-4c99-9e2a-505b783a6f1f" />
+
+
 
 ## My Contribution
 
